@@ -1,2 +1,2 @@
 py boot
-<button>boot<button>
+<button>boot</button>
